@@ -12,4 +12,4 @@ and it will explode after a short animation (beware not to find yourself close t
 If the enemy runs into you, it's game over.
 4. Boxes are represented by [#824300](brown) squares. They block the path but can be destoryed with bombs.
 5. All the [#909090](grey) squares are walls. They block the path and can't be destroyed.
-<span style="color:blue">some *blue* text</span>.
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
