@@ -10,6 +10,6 @@ Short tutorial:
 and it will explode after a short animation (beware not to find yourself close to the bomb, otherwise you'll lose)
 3. An enemy is represented by the pink square ![#FF00E4](https://via.placeholder.com/15/FF00E4/000000?text=+). It will move on the map and can be killed using a bomb.
 If the enemy runs into you, it's game over.
-4. Boxes are represented by brown squares [#824300](https://via.placeholder.com/15/824300/000000?text=+). They block the path but can be destoryed with bombs.
-5. All the grey squares [#909090](https://via.placeholder.com/15/909090/000000?text=+) are walls. They block the path and can't be destroyed.
+4. Boxes are represented by brown squares ![#824300](https://via.placeholder.com/15/824300/000000?text=+). They block the path but can be destoryed with bombs.
+5. All the grey squares ![#909090](https://via.placeholder.com/15/909090/000000?text=+) are walls. They block the path and can't be destroyed.
 
