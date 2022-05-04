@@ -5,7 +5,7 @@ The game can be played by running "bomberman.exe".
 
 Short tutorial:
 
-1. The Bomberman is represented by the [#f03c15](red) square and can be moved using the black arrows on the bottom left.
+1. The Bomberman is represented by the ![#f03c15](red) square and can be moved using the black arrows on the bottom left.
 2. A bomb can be placed by clicking the "BOMB" button close to the arrows. The bomb will be represented by an [#FFBD00](orange)/black square
 and it will explode after a short animation (beware not to find yourself close to the bomb, otherwise you'll lose)
 3. An enemy is represented by the [#FF00E4](pink) square. It will move on the map and can be killed using a bomb.
